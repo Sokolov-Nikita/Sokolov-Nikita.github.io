@@ -1,0 +1,49 @@
+
+.p4{
+    margin-left: auto;
+    margin-right: auto;
+}
+.w1 {
+    font-size: 30px;
+    color: #4682b4;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #4682b4;
+    color: white;
+}
+
+td {
+    background-color: #f9f9f9;
+}
+
+.map {
+    margin-top: 20px;
+}
+li {
+    list-style-type: none;
+}
+.i1{
+    max-width: 300px;
+    max-height: 300px;
+ }
+ .i2{
+    max-width: 300px;
+    max-height: 300px;
+ }
+ .i3{
+    max-width: 300px;
+    max-height: 300px;
+ }
